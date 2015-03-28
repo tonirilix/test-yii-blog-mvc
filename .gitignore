@@ -1,0 +1,5 @@
+# Vendor files installed by composer
+vendor
+bower_components
+node_modules
+composer.lock

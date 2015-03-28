@@ -1,0 +1,13 @@
+{
+    "name": "tonirilix/test-yii-blog",
+    "description": "Using yii framework with composer",
+    "require": {
+        "yiisoft/yii": "1.1.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jesus Montes"            
+        }
+    ]
+}
