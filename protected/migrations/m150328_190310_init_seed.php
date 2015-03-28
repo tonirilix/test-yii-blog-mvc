@@ -70,6 +70,7 @@ class m150328_190310_init_seed extends CDbMigration {
                 'tag_id'=>'1'                
             )
         );
+        
         $this->insert('post_tag', 
             array(
                 'post_id' => '1',                
