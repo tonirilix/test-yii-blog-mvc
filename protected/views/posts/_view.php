@@ -17,5 +17,5 @@
         <?php echo CHtml::encode($data->summary); ?>
     </p>
     <hr>
-    <?php echo CHtml::encode($data->content); ?>    
+    <?php echo $data->content; ?>    
 </div><!-- /.blog-post -->
