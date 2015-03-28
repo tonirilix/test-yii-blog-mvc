@@ -13,7 +13,7 @@ class m150328_140120_create_post_tag_table extends CDbMigration
 			'FK_post_id', 
 			'post_tag', 
 			'post_id', 
-			'users', 
+			'posts', 
 			'id', 
 			'CASCADE', 
 			'RESTRICT');
